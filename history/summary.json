@@ -40,17 +40,17 @@
     "url": "$TS3_HC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teamspeak-3-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1426,
-    "timeDay": 11016,
-    "timeWeek": 2752,
-    "timeMonth": 1426,
-    "timeYear": 1426,
+    "time": 1430,
+    "timeDay": 7855,
+    "timeWeek": 2641,
+    "timeMonth": 1430,
+    "timeYear": 1430,
     "dailyMinutesDown": {
       "2021-03-17": 22
     }
