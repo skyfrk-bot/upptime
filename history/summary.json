@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/esslinger.dev",
     "slug": "esslinger-dev",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 198,
-    "timeDay": 192,
-    "timeWeek": 165,
-    "timeMonth": 203,
-    "timeYear": 198,
-    "dailyMinutesDown": {
-      "2021-03-17": 22
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 161,
+    "timeWeek": 162,
+    "timeMonth": 201,
+    "timeYear": 197,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RSS Reader",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rss-reader",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 427,
-    "timeDay": 370,
-    "timeWeek": 432,
+    "timeDay": 434,
+    "timeWeek": 413,
     "timeMonth": 430,
     "timeYear": 427,
-    "dailyMinutesDown": {
-      "2021-03-17": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Teamspeak 3 Server",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 1347,
-    "timeDay": 518,
-    "timeWeek": 1207,
-    "timeMonth": 1415,
-    "timeYear": 1347,
+    "time": 1352,
+    "timeDay": 1538,
+    "timeWeek": 1277,
+    "timeMonth": 1418,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2021-03-17": 22
     }
