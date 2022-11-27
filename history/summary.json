@@ -24,18 +24,20 @@
     "url": "$RSS_READER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-reader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 384,
-    "timeWeek": 407,
-    "timeMonth": 464,
+    "timeDay": 468,
+    "timeWeek": 425,
+    "timeMonth": 467,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 0
+    }
   },
   {
     "name": "Teamspeak 3 Server",
