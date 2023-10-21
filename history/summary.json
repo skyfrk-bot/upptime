@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/esslinger.dev.ico",
     "slug": "esslinger-dev",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.39%",
     "time": 261,
-    "timeDay": 282,
-    "timeWeek": 244,
-    "timeMonth": 264,
-    "timeYear": 258,
+    "timeDay": 334,
+    "timeWeek": 215,
+    "timeMonth": 266,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2023-01-04": 1312,
       "2023-01-03": 1440,
@@ -35,9 +35,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 569,
-    "timeWeek": 425,
+    "time": 447,
+    "timeDay": 581,
+    "timeWeek": 441,
     "timeMonth": 438,
     "timeYear": 447,
     "dailyMinutesDown": {
@@ -56,16 +56,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 976,
-    "timeDay": 3065,
+    "timeDay": 739,
     "timeWeek": 934,
     "timeMonth": 778,
-    "timeYear": 993,
+    "timeYear": 994,
     "dailyMinutesDown": {
       "2023-08-07": 65,
       "2023-05-30": 17,
       "2023-01-13": 45,
-      "2022-10-23": 23,
-      "2022-10-21": 39
+      "2022-10-23": 23
     }
   }
 ]
