@@ -1,7 +1,7 @@
 url: $RSS_READER_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-05T11:16:53.683Z
+status: up
+code: 200
+responseTime: 331
+lastUpdated: 2024-01-05T11:28:11.548Z
 startTime: 2021-02-27T18:25:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
