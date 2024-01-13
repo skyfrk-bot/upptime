@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 182,
-    "timeWeek": 200,
-    "timeMonth": 196,
+    "timeDay": 101,
+    "timeWeek": 190,
+    "timeMonth": 195,
     "timeYear": 245,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 381,
-    "timeWeek": 367,
+    "timeDay": 345,
+    "timeWeek": 374,
     "timeMonth": 378,
     "timeYear": 436,
     "dailyMinutesDown": {
@@ -44,21 +44,20 @@
     "slug": "teamspeak-3-server",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 995,
-    "timeDay": 3836,
-    "timeWeek": 3572,
-    "timeMonth": 1636,
+    "timeDay": 526,
+    "timeWeek": 1384,
+    "timeMonth": 1635,
     "timeYear": 986,
     "dailyMinutesDown": {
       "2024-01-11": 23,
       "2023-12-27": 19,
       "2023-08-07": 65,
-      "2023-05-30": 17,
-      "2023-01-13": 45
+      "2023-05-30": 17
     }
   }
 ]
