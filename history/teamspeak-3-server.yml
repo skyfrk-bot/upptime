@@ -1,7 +1,7 @@
 url: $TS3_HC_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-26T07:50:45.598Z
+status: up
+code: 200
+responseTime: 811
+lastUpdated: 2024-02-26T08:08:40.514Z
 startTime: 2021-02-27T18:25:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
