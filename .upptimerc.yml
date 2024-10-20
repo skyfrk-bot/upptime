@@ -4,8 +4,6 @@ repo: upptime
 sites:
   - name: esslinger.dev
     url: https://esslinger.dev
-  - name: RSS Reader
-    url: $RSS_READER_URL
   - name: Teamspeak 3 Server
     url: $TS3_HC_URL
     
