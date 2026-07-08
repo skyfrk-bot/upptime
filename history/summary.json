@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 225,
-    "timeDay": 78,
-    "timeWeek": 160,
-    "timeMonth": 175,
-    "timeYear": 209,
+    "timeDay": 132,
+    "timeWeek": 164,
+    "timeMonth": 171,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-08-22": 239
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teamspeak-3-server",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "7.14%",
+    "uptimeWeek": "86.73%",
     "uptimeMonth": "95.79%",
-    "uptimeYear": "99.00%",
-    "time": 1948,
-    "timeDay": 6865,
-    "timeWeek": 5642,
-    "timeMonth": 4542,
-    "timeYear": 1934,
+    "uptimeYear": "98.74%",
+    "time": 1934,
+    "timeDay": 2495,
+    "timeWeek": 5888,
+    "timeMonth": 4537,
+    "timeYear": 1930,
     "dailyMinutesDown": {
       "2025-07-15": 60,
       "2025-12-20": 50,
@@ -46,7 +46,9 @@
       "2026-06-08": 714,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
-      "2026-06-05": 1075
+      "2026-06-05": 1075,
+      "2026-07-08": 206,
+      "2026-07-07": 1131
     }
   }
 ]
