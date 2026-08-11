@@ -24,17 +24,17 @@
     "url": "$TS3_HC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teamspeak-3-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
-    "time": 2030,
-    "timeDay": 489,
-    "timeWeek": 3121,
-    "timeMonth": 2710,
-    "timeYear": 2075,
+    "time": 2034,
+    "timeDay": 1502,
+    "timeWeek": 3046,
+    "timeMonth": 2704,
+    "timeYear": 2076,
     "dailyMinutesDown": {
       "2025-12-20": 50,
       "2026-01-12": 46,
@@ -47,7 +47,8 @@
       "2026-06-06": 1440,
       "2026-06-05": 1075,
       "2026-07-08": 671,
-      "2026-07-07": 1131
+      "2026-07-07": 1131,
+      "2026-08-11": 0
     }
   }
 ]
